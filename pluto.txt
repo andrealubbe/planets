@@ -1,2 +1,2 @@
-Pluto is far away
-hello
+Pluto is far away.
+hello.
